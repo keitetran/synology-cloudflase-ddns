@@ -10,7 +10,7 @@ You not need login to SSH, only need login to DMS
   - Gernal settings: 
     - Task: `Synology CloudFlase setup`
     - User: `Root`
-    - Uncheck to Enabled this task
+    - Uncheck to `Enabled this task`
   - Task setting
     - Add this code to `Run command` (* You can check or modify code at URL)
       ```bash
